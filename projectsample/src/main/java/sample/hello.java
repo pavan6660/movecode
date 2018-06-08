@@ -18,7 +18,7 @@ public void pavan() throws Exception
 	{
 		/*Logger logger=Logger.getLogger("hello");
 		PropertyConfigurator.configure("log4j.properties");*/
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\new\\Downloads\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "C:\\Users\\new\\Downloads\\geckodriver.exe")
 		driver=new FirefoxDriver();
 		//logger.info("application launched");
 		driver.get("https://www.facebook.com/");
@@ -30,7 +30,7 @@ public void pavan() throws Exception
 	//	logger.info("screenshot taken");
 		System.out.println("hello pavan");
 		System.out.println("changed code in eclipse");
-		System.out.println("changed code in eclipse");
+		System.out.println("changed code in eclipse")
 		System.out.println("changed code in eclipse");
 		System.out.println("changed code in eclipse");
 		System.out.println("changed code in eclipse");
